@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: vivame.new.3rd.lib:netty:3.4.5.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/vivame/new/3rd/lib/netty/3.4.5.Final/netty-3.4.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/vivame/new/3rd/lib/netty/3.4.5.Final/netty-3.4.5.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/vivame/new/3rd/lib/netty/3.4.5.Final/netty-3.4.5.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

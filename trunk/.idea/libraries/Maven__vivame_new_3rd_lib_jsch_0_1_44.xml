@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: vivame.new.3rd.lib:jsch:0.1.44">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/vivame/new/3rd/lib/jsch/0.1.44/jsch-0.1.44.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/vivame/new/3rd/lib/jsch/0.1.44/jsch-0.1.44-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/vivame/new/3rd/lib/jsch/0.1.44/jsch-0.1.44-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
