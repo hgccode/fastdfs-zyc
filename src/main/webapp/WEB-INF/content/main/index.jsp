@@ -283,9 +283,9 @@
                     <ul class="tree">
                         <li><a href="testModule/testDownLoad.shtml?pageNum=1&&pageSize=20" target="navTab" rel="testDownLoad">下载测试</a></li>
                     </ul>
-                    <ul class="tree">
-                        <li><a href="monitor/testUpload.shtml" target="navTab" rel="testFileUpload">上传测试</a></li>
-                    </ul>   ˜
+                    <%--<ul class="tree">--%>
+                        <%--<li><a href="monitor/testUpload.shtml" target="navTab" rel="testFileUpload">上传测试</a></li>--%>
+                    <%--</ul>   ˜--%>
                 </div>
             </div>
         </div>
