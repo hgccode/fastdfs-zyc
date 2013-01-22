@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="fastdfs-zyc:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="fastdfs-zyc.war">
-      <element id="artifact" artifact-name="fastdfs-zyc:war exploded" />
-    </root>
-  </artifact>
-</component>
